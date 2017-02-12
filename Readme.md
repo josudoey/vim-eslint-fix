@@ -6,7 +6,7 @@
 1. Add this line to your `.vimrc`:
 
   ```vim
-Plugin 'maksimr/vim-jsbeautify'
+Plug 'maksimr/vim-jsbeautify'
   ```
 
 2. Call `PlugInstall()` inside vim:
