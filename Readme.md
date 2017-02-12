@@ -32,4 +32,4 @@ endfunction
 
 "pretty the file before saving.
 autocmd BufWritePre * execute 'call PrettyFile()'
-```vim
+```
