@@ -1,4 +1,4 @@
-## vim-jsbeautify
+## vim-eslint-fix
 
 ## Installing using Vim Plugin Manager
 
@@ -6,7 +6,7 @@
 1. Add this line to your `.vimrc`:
 
   ```vim
-Plug 'maksimr/vim-jsbeautify'
+Plug 'josudoey/vim-eslint-fix'
   ```
 
 2. Call `PlugInstall()` inside vim:
